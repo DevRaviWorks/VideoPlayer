@@ -3,3 +3,7 @@
 ################################################################################
 
 /VideoPlayer/VideoPlayer/WinVideoPlayer/bin/Debug
+/VideoPlayer/VideoPlayer/WinVideoPlayer/obj/Debug
+/VideoPlayer/VideoPlayer/WinVideoPlayer/Properties
+/VideoPlayer/.vs/VideoPlayer
+/VideoPlayer/VideoPlayer/.vs/VideoPlayer/v16
